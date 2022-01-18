@@ -17,6 +17,9 @@ void printArray(int a[])
 37  61  40  34  83  82  100  22  86  48
  0   1   2   3   4   5   6   7   8   9
     j
+37  40  61  34  83  82  100  22  86  48
+ 0   1   2   3   4   5   6   7   8   9
+        j
 */
 void bubble_sort(int arr[])
 {
